@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+@theme{
+  --color-primary:#01c28b;
+  --color-brandWhite:#f5f9fc;
+  --color-darkBlur:#171a67;
+  --container-centre : true;
+  --container-padding: 1rem;
+  --container-padding-sm: 2rem;
+  --container-padding-lg: 4rem, 2xl:6rem;
+
+}
